@@ -9,12 +9,14 @@
 /* Begin PBXFileReference section */
 		1AE7BAAD2B9C429E002D7F28 /* Lv4Calculator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lv4Calculator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		1AE7BAAE2B9D6DB8002D7F28 /* Lv2Calculator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lv2Calculator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1AE7BAAF2B9D7719002D7F28 /* Lv3Calculator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lv3Calculator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		1AE7BAA62B9C2C5F002D7F28 = {
 			isa = PBXGroup;
 			children = (
+				1AE7BAAF2B9D7719002D7F28 /* Lv3Calculator.playground */,
 				1AE7BAAE2B9D6DB8002D7F28 /* Lv2Calculator.playground */,
 				1AE7BAAD2B9C429E002D7F28 /* Lv4Calculator.playground */,
 			);
