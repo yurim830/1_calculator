@@ -1,0 +1,76 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		1AE7BAAD2B9C429E002D7F28 /* Lv4Calculator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lv4Calculator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		1AE7BAAE2B9D6DB8002D7F28 /* Lv2Calculator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lv2Calculator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		1AE7BAA62B9C2C5F002D7F28 = {
+			isa = PBXGroup;
+			children = (
+				1AE7BAAE2B9D6DB8002D7F28 /* Lv2Calculator.playground */,
+				1AE7BAAD2B9C429E002D7F28 /* Lv4Calculator.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		1AE7BAA72B9C2C5F002D7F28 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1520;
+			};
+			buildConfigurationList = 1AE7BAAA2B9C2C5F002D7F28 /* Build configuration list for PBXProject "FinalCalculator" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1AE7BAA62B9C2C5F002D7F28;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		1AE7BAAB2B9C2C5F002D7F28 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		1AE7BAAC2B9C2C5F002D7F28 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1AE7BAAA2B9C2C5F002D7F28 /* Build configuration list for PBXProject "FinalCalculator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1AE7BAAB2B9C2C5F002D7F28 /* Debug */,
+				1AE7BAAC2B9C2C5F002D7F28 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1AE7BAA72B9C2C5F002D7F28 /* Project object */;
+}
