@@ -1,7 +1,7 @@
 // SOLID 원칙 - 단일 책임 원칙 적용
 // -> 각 연산을 다른 class로 분리!
 
-enum Operator {
+enum OperatorType {
     case add
     case subtract
     case multiply
@@ -18,7 +18,7 @@ class Calculator {
     let mod = ModOperation()
 
     // 2. 동작 (메서드)
-    func operation(_ op: Operator, _ first: Double, _ second: Double) -> Double {
+    func operation(_ op: OperatorType, _ first: Double, _ second: Double) -> Double {
         switch op {
         case .add:
             add.addition(first, second)
